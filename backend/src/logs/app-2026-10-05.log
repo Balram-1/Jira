@@ -1,0 +1,9 @@
+{"level":"info","message":"Connected to MongoDB","service":"jira-api","timestamp":"2026-10-05 15:56:00"}
+{"level":"info","message":"Server is running on port 5000","service":"jira-api","timestamp":"2026-10-05 15:56:00"}
+{"level":"info","message":"Swagger docs available at http://localhost:5000/api-docs","service":"jira-api","timestamp":"2026-10-05 15:56:00"}
+{"level":"info","message":"Connected to MongoDB","service":"jira-api","timestamp":"2026-10-05 15:57:11"}
+{"level":"info","message":"Server is running on port 5000","service":"jira-api","timestamp":"2026-10-05 15:57:11"}
+{"level":"info","message":"Swagger docs available at http://localhost:5000/api-docs","service":"jira-api","timestamp":"2026-10-05 15:57:11"}
+{"level":"info","message":"Connected to MongoDB","service":"jira-api","timestamp":"2026-10-05 16:07:19"}
+{"level":"info","message":"Server is running on port 5000","service":"jira-api","timestamp":"2026-10-05 16:07:19"}
+{"level":"info","message":"Swagger docs available at http://localhost:5000/api-docs","service":"jira-api","timestamp":"2026-10-05 16:07:19"}
